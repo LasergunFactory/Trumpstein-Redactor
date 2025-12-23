@@ -143,7 +143,7 @@ const App: React.FC = () => {
       <header className="max-w-7xl mx-auto w-full mb-8 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
           <h1 className="text-3xl font-bold tracking-tighter text-white flex items-center gap-2">
-            <span className="bg-white text-black px-2 rounded">STEALTH</span> REDACT
+            <span className="bg-white text-black px-2 rounded">TRUMPSTEIN</span> REDACTOR
           </h1>
           <p className="text-zinc-500 text-sm mt-1">Professional grade document obfuscation & sanitization.</p>
         </div>
@@ -284,7 +284,7 @@ const App: React.FC = () => {
           <span>AES-256 Mocked Architecture</span>
         </div>
         <div>
-          &copy; {new Date().getFullYear()} StealthRedact Advanced Defense
+          &copy; {new Date().getFullYear()} TRUMPSTEIN REDACTOR Advanced Defense
         </div>
       </footer>
     </div>
